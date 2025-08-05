@@ -1,0 +1,3 @@
+# suffix-semicolon.nvim
+
+TODO
